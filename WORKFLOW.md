@@ -25,7 +25,7 @@ git checkout master
 ```
 2. prima di iniziare a lavorare ci si assicura che il master locale coincida con il master remoto
 ```
-git fetch origin //preleva da dal remote origin i nuovi commit
+git fetch --all //preleva da dal remote origin i nuovi commit
 git reset --hard origin/master //cancella i commit dopo origin/master e posizione il master locale sul master remoto
 ```
 3. creiamo il nostro nuovo branch
