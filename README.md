@@ -140,10 +140,27 @@ io come **utente banca dei semi** voglio:
 #### Descrizione
 La funzionalità di ricerca permette di ricercare all'interno del social dei tag specifici, degli utenti o dei semi.
 #### Interazione con altre funzionalità
-Non abbiabo individuato particolari interazioni con altre funzionalità.
+Può essere fatta la ricerca anche da utenti non loggati.
 #### Workflof della funzionalità
 per accedere a questa funzionalità è sempre disponibile sulla barra superiore del sito un campo doi testo che permette l'immissione del testo da ricercare.
 una volta inserito il testo e premuto invio si viene reindirizzati su un altra pagina in cu queste informazioni sono suddivise su dei tab (utenti, semi, tag).
 - nel tab dei tag vengono mostrati tutti i tag correlati al testo inserito nella barra di ricerca.
 - nel tab persone vengono mostrati tutte le persone correlate al testo inserito nella barra di ricerca.
 - nel tab semi vengono mostrate le varietà e le specie di semi corrispondenti al testo inserito nella barra di ricerca.
+#### Funzionalità di aggiunta di un post
+#### Funzionalità di ricerca post tramite filtri tag
+<br>
+#### Funzionalità di gestione della banca dei semi (TODO)
+#### Funzionalità di aggiunta, aggiornameto e rimozione foto profilo
+#### Funzionalità di inserimento e modifica dei dati personali
+#### Contattare un utente
+#### Funzionalità di seguire un utente (cuoricino sulla pagina profilo e/o cuoricino appena scrivo utente)
+#### Vedere chi seguiamo e da chi siamo seguiti
+#### Vedere la cronologia di transazioni e scambi
+<br>
+#### Lettura dei feed
+#### Poter messaggiare
+<br>
+#### Visualizzare la specie
+#### Visualizzare la varietà
+#### Richiedere una varietà
