@@ -147,20 +147,63 @@ una volta inserito il testo e premuto invio si viene reindirizzati su un altra p
 - nel tab dei tag vengono mostrati tutti i tag correlati al testo inserito nella barra di ricerca.
 - nel tab persone vengono mostrati tutte le persone correlate al testo inserito nella barra di ricerca.
 - nel tab semi vengono mostrate le varietà e le specie di semi corrispondenti al testo inserito nella barra di ricerca.
-#### Funzionalità di aggiunta di un post
-#### Funzionalità di ricerca post tramite filtri tag
-<br>
-#### Funzionalità di gestione della banca dei semi (TODO)
-#### Funzionalità di aggiunta, aggiornameto e rimozione foto profilo
-#### Funzionalità di inserimento e modifica dei dati personali
-#### Contattare un utente
-#### Funzionalità di seguire un utente (cuoricino sulla pagina profilo e/o cuoricino appena scrivo utente)
-#### Vedere chi seguiamo e da chi siamo seguiti
-#### Vedere la cronologia di transazioni e scambi
-<br>
-#### Lettura dei feed
-#### Poter messaggiare
-<br>
-#### Visualizzare la specie
-#### Visualizzare la varietà
-#### Richiedere una varietà
+### Funzionalità di gestione della banca dei semi (TODO)
+#### Descrizione
+#### Interazione con altre funzionalità
+#### Workflof della funzionalità
+#Andrea
+### Funzionalità di aggiunta di un post
+#### Descrizione
+#### Interazione con altre funzionalità
+#### Workflof della funzionalità
+### Funzionalità di ricerca post tramite filtri tag
+#### Descrizione
+#### Interazione con altre funzionalità
+#### Workflof della funzionalità
+### Funzionalità di aggiunta, aggiornameto e rimozione foto profilo
+#### Descrizione
+#### Interazione con altre funzionalità
+#### Workflof della funzionalità
+### Funzionalità di inserimento e modifica dei dati personali
+#### Descrizione
+#### Interazione con altre funzionalità
+#### Workflof della funzionalità
+#Salvatore
+### Contattare un utente
+#### Descrizione
+#### Interazione con altre funzionalità
+#### Workflof della funzionalità
+### Funzionalità di seguire un utente (cuoricino sulla pagina profilo e/o cuoricino appena scrivo utente)
+#### Descrizione
+#### Interazione con altre funzionalità
+#### Workflof della funzionalità
+### Vedere chi seguiamo e da chi siamo seguiti
+#### Descrizione
+#### Interazione con altre funzionalità
+#### Workflof della funzionalità
+#Gianluigi
+### Vedere la cronologia di transazioni e scambi
+#### Descrizione
+#### Interazione con altre funzionalità
+#### Workflof della funzionalità
+### Lettura dei feed
+#### Descrizione
+#### Interazione con altre funzionalità
+#### Workflof della funzionalità
+### Poter messaggiare
+#### Descrizione
+#### Interazione con altre funzionalità
+#### Workflof della funzionalità
+#Nicolo
+### Visualizzare la specie
+#### Descrizione
+#### Interazione con altre funzionalità
+#### Workflof della funzionalità
+### Visualizzare la varietà
+#### Descrizione
+#### Interazione con altre funzionalità
+#### Workflof della funzionalità
+### Richiedere una varietà
+#### Descrizione
+#### Interazione con altre funzionalità
+#### Workflof della funzionalità
