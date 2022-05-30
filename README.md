@@ -2,7 +2,6 @@
 - [Progetto SeedShare](#progetto-seedshare)
     - [User Stories](#user-stories)
     - [Analisi Funzionale](#analisi-funzionale)
-    - [Analisi Tecnica](#analisi-tecnica)
 ## User Stories
 Io come **utente**:
 - voglio potermi registrare
@@ -137,8 +136,14 @@ io come **utente banca dei semi** voglio:
 ------------
 
 ## Analisi Funzionale
-descrizione della funzionalità
-descrizione dell'interazione di questa funzionalità con altre funzionalità
-workflow della funzionalità (flussi di lavoro)
-
-## Analisi Tecnica
+### Funzionalità di ricerca di globale
+#### Descrizione
+La funzionalità di ricerca permette di ricercare all'interno del social dei tag specifici, degli utenti o dei semi.
+#### Interazione con altre funzionalità
+Non abbiabo individuato particolari interazioni con altre funzionalità.
+#### Workflof della funzionalità
+per accedere a questa funzionalità è sempre disponibile sulla barra superiore del sito un campo doi testo che permette l'immissione del testo da ricercare.
+una volta inserito il testo e premuto invio si viene reindirizzati su un altra pagina in cu queste informazioni sono suddivise su dei tab (utenti, semi, tag).
+- nel tab dei tag vengono mostrati tutti i tag correlati al testo inserito nella barra di ricerca.
+- nel tab persone vengono mostrati tutte le persone correlate al testo inserito nella barra di ricerca.
+- nel tab semi vengono mostrate le varietà e le specie di semi corrispondenti al testo inserito nella barra di ricerca.
