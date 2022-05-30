@@ -29,41 +29,33 @@ Io come **utente**:
         + Precondizioni: L'utente non loggato si trova su una qualsiasi pagina del sito
         + Qando: L'utente cerca di interagire con delle parti del sito che richiedono registrazione
         + Allora: Viene reindirizzato sulla pagina di "SignIn/SignOut" una volta loggato viene riportato sulla pagina che stava visitando.
--------------------
-### Nicolò
 - voglio poter recuperare le mie credenziali se le ho dimenticate.
     * Criteri di accettazione:
         + scenario: lutente vuole. invio di una mail di recupero (password) o modificare.
         + Precondizioni: L'utente a dimenticato la password.
         + Qando: clica il link per il recupero password e imette la mail con cui siera registrato.
         + Allora: Viene inviata una mail di recupero/ reset password (nuova password)
-      ####
 - da ogni pagina del sito voglio poter accedere alla pagina di login e/o di registrazione.<br>
     * Criteri di accettazione:
         + Scenario: l'utente vuole: poter accedere alla pagina di login e/o di registrazione da ogni pagina del sito.
         + Precondizioni: l'utente non si trova nella pagina di login o registrazione.
         + Qando: clica il link per accedere alla pagina di login/ registrazione.
         + Allora: Viene spostatto sulla pagina di login/ registrazione
-  ####
 - se sono già loggato, dallo stesso posto, voglio poter accedere alla mia pagina profilo.
     * Criteri di accettazione:
       +link al mio profilo da ogni paggina del sito
         + Precondizioni: lutente e gia logato
         + Qando: clica il link per accedere alla pagina profilo.
         + Allora: Viene spostatto sulla pagina profilo.
-  ####
 - voglio poter aggiungere un foto profilo
     * Criteri di accettazione:
         + scenario: lutente vuole. caricare una imagine sul suo profilo.
-  ####
 - voglio poter aggiungere informazioni al mio profilo
     * Criteri di accettazione:
         +
-####
 - voglio poter cancellare il mio account
     * Criteri di accettazione:
     + Precondizioni: lutente a gia un account
-### Andrea
 - voglio poter mettere a disposizione semi in mio possesso
     * Criteri di accettazione:
         + Scenario: l'utente loggato vuole caricare sul sito un seme da condividere
@@ -100,8 +92,6 @@ Io come **utente**:
         + Precondizioni: l'utente loggato si trova sulla pagina del proprio profilo personale
         + Quando: l'utente, nella sezione "Transazioni in corso", clicca sulla transazione interessata
         + Allora: viene reindirizzato su una pagina che indicherà se i semi: sono ancora in attesa di essere inviati, sono in viaggio, sono in procinto di arrivare.
-
-### Salvatore
 - voglio poter contattare in una chat privata un altro utente
     * Criteri di accettazione:
         + Scenario: l'utente vuole contattare in privato un altro utente per chiedere informazioni
