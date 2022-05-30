@@ -32,11 +32,37 @@ Io come **utente**:
 -------------------
 ### Nicolò
 - voglio poter recuperare le mie credenziali se le ho dimenticate.
+    * Criteri di accettazione:
+        + scenario: lutente vuole. invio di una mail di recupero (password) o modificare.
+        + Precondizioni: L'utente a dimenticato la password.
+        + Qando: clica il link per il recupero password e imette la mail con cui siera registrato.
+        + Allora: Viene inviata una mail di recupero/ reset password (nuova password)
+      ####
 - da ogni pagina del sito voglio poter accedere alla pagina di login e/o di registrazione.<br>
+    * Criteri di accettazione:
+        + Scenario: l'utente vuole: poter accedere alla pagina di login e/o di registrazione da ogni pagina del sito.
+        + Precondizioni: l'utente non si trova nella pagina di login o registrazione.
+        + Qando: clica il link per accedere alla pagina di login/ registrazione.
+        + Allora: Viene spostatto sulla pagina di login/ registrazione
+  ####
 - se sono già loggato, dallo stesso posto, voglio poter accedere alla mia pagina profilo.
+    * Criteri di accettazione:
+      +link al mio profilo da ogni paggina del sito
+        + Precondizioni: lutente e gia logato
+        + Qando: clica il link per accedere alla pagina profilo.
+        + Allora: Viene spostatto sulla pagina profilo.
+  ####
 - voglio poter aggiungere un foto profilo
+    * Criteri di accettazione:
+        + scenario: lutente vuole. caricare una imagine sul suo profilo.
+  ####
 - voglio poter aggiungere informazioni al mio profilo
+    * Criteri di accettazione:
+        +
+####
 - voglio poter cancellare il mio account
+    * Criteri di accettazione:
+    + Precondizioni: lutente a gia un account
 ### Andrea
 - voglio poter mettere a disposizione semi in mio possesso
     * Criteri di accettazione:
