@@ -142,7 +142,7 @@ La funzionalità di ricerca permette di ricercare all'interno del social dei tag
 #### Interazione con altre funzionalità
 Può essere fatta la ricerca anche da utenti non loggati.
 #### Workflof della funzionalità
-per accedere a questa funzionalità è sempre disponibile sulla barra superiore del sito un campo doi testo che permette l'immissione del testo da ricercare.
+per accedere a questa funzionalità è sempre disponibile sulla barra superiore del sito un campo di testo che permette l'immissione del testo da ricercare.
 una volta inserito il testo e premuto invio si viene reindirizzati su un altra pagina in cu queste informazioni sono suddivise su dei tab (utenti, semi, tag).
 - nel tab dei tag vengono mostrati tutti i tag correlati al testo inserito nella barra di ricerca.
 - nel tab persone vengono mostrati tutte le persone correlate al testo inserito nella barra di ricerca.
@@ -171,10 +171,15 @@ una volta inserito il testo e premuto invio si viene reindirizzati su un altra p
 #Salvatore
 ### Contattare un utente
 #### Descrizione
+La funzionalità di contattare un utente permette a chi è registrato di messaggiare con altri utenti registrati per effettuare delle transizioni.
 #### Interazione con altre funzionalità
-#### Workflof della funzionalità
+Questo tipo di funzionalità può essere usata soltanto se la registrazione è stata effettuata e quindi essere in possesso di un proprio profilo. <br> Inoltre per messaggiare con un utente si possono utilizzare anche altre funzionalità come quella della ricerca globale, usata anche per cercare utenti da messaggiare.
+#### Workflow della funzionalità
+Per inviare un messaggio bisogna prima individuare l'utente con cui farlo, questo è possibile tramite la ricerca globale in cui è possibile inserire del testo che permette di visualizzare il nome degli utenti che più si avvicinano ad esso. <br>
+Una volta trovavo l'utente da contattare, si clicca sul nome per aprire la sua pagina profilo in cui si trova il tasto che una volta premuto farà aprire una pagina interamente dedicata alla messaggistica con l'altro utente. 
 ### Funzionalità di seguire un utente (cuoricino sulla pagina profilo e/o cuoricino appena scrivo utente)
 #### Descrizione
+
 #### Interazione con altre funzionalità
 #### Workflof della funzionalità
 ### Vedere chi seguiamo e da chi siamo seguiti
