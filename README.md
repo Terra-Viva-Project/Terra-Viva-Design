@@ -190,7 +190,7 @@ Questa funzionalità permette all'utente di controllare chi segue e da chi è se
 #### Interazione con altre funzionalità
 Per poter effettuare questo tipo di operazione bisogna essere registrati e avere un proprio profilo.
 #### Workflow della funzionalità
-Per controllare i follower e i seguiti bisogna cliccare sulla foto in alto a destra in modo da aprire la pagina dedicata al proprio profilo. <br> Da qui è possibile cliccare sul tasto posto in basso "persone che segui" e comparirà una lista formata da tutte le persone che l'utente segue fino a quel momento. <br> Per quanto riguarda invece la possibilità di controllare chi è che ci segue, bisogna cliccare sul tasto posto in basso "persone che ti seguono" in modo tale da aprire la lista di tutti gli utenti che ci seguono fino a quel momento.
+Per controllare i follower e i seguiti bisogna cliccare sulla foto in alto a destra in modo da aprire la pagina dedicata al proprio profilo. <br> Da qui è possibile cliccare sul tasto posto in basso "persone che segui" e comparirà una lista formata da tutte le persone che l'utente segue fino a quel momento. <br> Per quanto riguarda invece la possibilità di controllare chi è che ci segue, bisogna cliccare sul tasto posto in basso "persone che ti seguono" in modo tale da aprire la lista di tutti gli utenti che ci seguono fino a quel momento. <br>
 #Gianluigi
 ### Vedere la cronologia di transazioni e scambi
 #### Descrizione
