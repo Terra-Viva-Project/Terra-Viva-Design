@@ -175,17 +175,19 @@ La funzionalità di contattare un utente permette a chi è registrato di messagg
 #### Interazione con altre funzionalità
 Questo tipo di funzionalità può essere usata soltanto se la registrazione è stata effettuata e quindi essere in possesso di un proprio profilo. <br> Inoltre per messaggiare con un utente si possono utilizzare anche altre funzionalità come quella della ricerca globale, usata anche per cercare utenti da messaggiare.
 #### Workflow della funzionalità
-Per inviare un messaggio bisogna prima individuare l'utente con cui farlo, questo è possibile tramite la ricerca globale in cui è possibile inserire del testo che permette di visualizzare il nome degli utenti che più si avvicinano ad esso. <br>
+Per inviare un messaggio bisogna prima individuare l'utente con cui farlo, questo è possibile tramite la ricerca globale in cui bisogna inserire del testo che permette di visualizzare il nome degli utenti che più si avvicinano ad esso. <br>
 Una volta trovavo l'utente da contattare, si clicca sul nome per aprire la sua pagina profilo in cui si trova il tasto che una volta premuto farà aprire una pagina interamente dedicata alla messaggistica con l'altro utente. 
 ### Funzionalità di seguire un utente (cuoricino sulla pagina profilo e/o cuoricino appena scrivo utente)
 #### Descrizione
-
+Questo tipo di funzionalità ci permette di seguire gli utenti a cui siamo più fedeli o semplicemente che ci interessano di più.
 #### Interazione con altre funzionalità
-#### Workflof della funzionalità
+Per eseguire questa funzionalità bisogna essere registrati e essere in possesso di un proprio account. <br> Per poter seguire un profilo è possibile utilizzare la ricerca globale per trovare l'account desiderato e successivamente premere il cuore posto accanto al nome utente.
+#### Workflow della funzionalità
+Per seguire un utente bisogna premere sul cuoricino posto accanto al suo nome profilo, quest'azione può essere effettuata in qualsiasi contesto del sito come ad esempio nella pagina home, nelle ricerche e anche dai messaggi. <br> Questo è possibile perchè il cuore si troverà sempre nella stessa posizione indifferentemente dal modo in cui si visualizza il nome profilo. <br> Quando il cuore viene cliccato, e di conseguenza esso si colora interamente di rosso, vuol dire che stiamo seguendo l'utente e da questo momento in poi è possibile vedere i suoi post nella pagina "seguiti".
 ### Vedere chi seguiamo e da chi siamo seguiti
 #### Descrizione
 #### Interazione con altre funzionalità
-#### Workflof della funzionalità
+#### Workflow della funzionalità
 #Gianluigi
 ### Vedere la cronologia di transazioni e scambi
 #### Descrizione
