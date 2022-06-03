@@ -7,13 +7,24 @@
 ## Analisi Funzionalità core
 ### Funzionalità di registrazione
 #### Descrizione
+Questa funzionalità garantisce all'utente la possibilità di registrare un proprio account in modo da poter interagire con il social.
 #### Interazione con altre funzionalità
+Questa funzionalità ha interazioni con la funzionalità di login
 #### Workflof della funzionalità
+l'utente non loggato da ogni pagine del sito avrà la possibilità di accedere alla pagina di sign-in sign-up.
+un volta reindirizzato su questa pagina l'utente cliccherà sul pulsante registrati e compilerà i form che li si presentano.
+una volta completato l'inserimento l'utente cliccherà sul pulsante registrami e riceverà una mail di conferma.
+una volta cliccato sul link nella mail l'utente verrà reindirizzato sulla sua pagina profilo.
 # Gianluigi
 ### Funzionalità di log-in
 #### Descrizione
+Questa funzionalità deve poter consentire all'utente di effettuare l'accesso nel sistema con le proprie credenziali
 #### Interazione con altre funzionalità
+interagisce con la funzionalità di login in quanto un utente gia loggato non puo rieffettuare il login prima di essersi sloggato
 #### Workflof della funzionalità
+da utente sloggato viene sempre garantito in ogni pagina del sito l'accesso alla funzionalità di sign-in sign up.\
+una volta cliccato sul link l'utente verrà reindirizzato su una pagina che gli consente di effettuare il login o la registrazione\
+per effettuare il login dovrà inserire delle credenziali valide negli appositi form e cliccare sul tasto login.
 ### Funzionalità navigazione nell'albero delle specie
 #### Descrizione
 questa funzionalità deve poter garantire all'utente la navigazione dell'albero delle specie botaniche presenti nel database.
@@ -64,17 +75,21 @@ Per inviare un messaggio bisogna prima individuare l'utente con cui farlo, quest
 Una volta trovavo l'utente da contattare, si clicca sul nome per aprire la sua pagina profilo in cui si trova il tasto che una volta premuto farà aprire una pagina interamente dedicata alla messaggistica con l'altro utente.
 ### Lettura dei feed
 #### Descrizione
+Questa funzionalità permette di leggere i post relativi agli utenti o ai tag seguiti.
 #### Interazione con altre funzionalità
+Questa funzionalità interagisce con la funzionalità "seguire un tag" e "seguire un seed saver"
 #### Workflof della funzionalità
-### Poter messaggiare
+l'utente loggato dal menu laterale attraverso la voce di menù feed accederà ad una pagina che gli permetterà di visualizzare tutti i post relativi ai tag o agli utenti che segue.
+### Funzionalità di messaggistica
 #### Descrizione
+Questa funzionalità permette agli utenti di inviare e ricevere messaggi con gli altri utenti
 #### Interazione con altre funzionalità
+questa funzionalita interagisce con la funzionalità di login
 #### Workflof della funzionalità
-### Funzionalità di aggiunta di una varietà
-#### Descrizione
-#### Interazione con altre funzionalità
-#### Workflof della funzionalità
-### Visualizzare la specie
+sul menu laterale l'utente troverà un lik alla pagina messaggi.\
+Una volta reindirizzato sulla pagina dei messaggi l'utente visualizzerà sulla sinistra una lista di tutte le conversazioni gia avviate.\
+sulla destra visualizzerà i messaggi relativi alla conversazione avviata. in basso avra un campo di testo dove potra inserire il messagio da inviare e potrà inviarlo cliccando sul pulsante invia.
+### Funzionalità di visualizzazione di una varità
 #### Descrizione
 Questa funzionalità permette a qualsiasi utente di vedere i dati di una specie di semi presenti sul sito.
 #### Interazione con altre funzionalità
@@ -93,7 +108,12 @@ Sulla barra bisogna scrivere il nome della specie che ci interessa. A quel punto
 Richiedere un seme ad un utente
 #### Interazione con altre funzionalità
 #### Workflof della funzionalità
-
+### Funzionalità di aggiunta di una varietà
+#### Descrizione
+#### Interazione con altre funzionalità
+#### Workflof della funzionalità
+### Visualizzare la specie
+#### Descrizione
 ## Analisi Funzionalità
 ### Funzionalità di ricerca post tramite filtri tag
 #### Descrizione
@@ -142,6 +162,9 @@ Per controllare i follower e i seguiti bisogna cliccare sulla foto in alto a des
 # Andrea
 ### Vedere la cronologia di transazioni e scambi
 #### Descrizione
+Questa funzionalità permette all'utente di vedere la storia delle sue transazioni rispetto alla banca dei semi.
 #### Interazione con altre funzionalità
+Questa funzionalità interagisce con la funzionalità di logi in quanto l'utente deve essere necessariamente loggato.
 #### Workflof della funzionalità
+una volta effettuato il login l'utente va sulla propria pagina profilo e li trova una lista di tutte le sue transazioni rispetto ai semi.
 
