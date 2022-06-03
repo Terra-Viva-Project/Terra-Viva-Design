@@ -3,11 +3,13 @@
 - [Progetto SeedShare](#progetto-seedshare)
     - [Analisi Funzionalità core](#analisi-funzionalit-core)
     - [Analisi Funzionalità](#analisi-funzionalit)
+# Salvatore
 ## Analisi Funzionalità core
 ### Funzionalità di registrazione
 #### Descrizione
 #### Interazione con altre funzionalità
 #### Workflof della funzionalità
+# Gianluigi
 ### Funzionalità di log-in
 #### Descrizione
 #### Interazione con altre funzionalità
@@ -81,6 +83,7 @@ La visualizzazione di una specie è legata all'utilizzo della funzione di ricerc
 #### Workflof della funzionalità
 Per visualizzare una specie di semi è necessario cliccare sulla barra di ricerca globale, accessibile da qualsiasi pagina del sito sia dall'utente loggato sia da quello sloggato.
 Sulla barra bisogna scrivere il nome della specie che ci interessa. A quel punto cliccheremo sul tab dei semi, in modo da vedere solo i risultati della ricerca inerenti le specie e le varietà. Ora scorreremo tra i risultati finchè non troveremo la specie interessata, su cui cliccheremo. Questo ci porterà sulla pagina di quella specie, che si presenterà con una foto raffigurante quella specie in alto a sinistra con affianco la sua descrizione e tutte le informazioni necessarie. Più in basso sarà invece possibile osservare dei riquadri con tutte le varietà presenti sul sito di quella specie.
+# Nicolò
 ### Visualizzare la varietà
 #### Descrizione
 #### Interazione con altre funzionalità
@@ -136,6 +139,7 @@ Questa funzionalità permette all'utente di controllare chi segue e da chi è se
 Per poter effettuare questo tipo di operazione bisogna essere registrati e avere un proprio profilo.
 #### Workflow della funzionalità
 Per controllare i follower e i seguiti bisogna cliccare sulla foto in alto a destra in modo da aprire la pagina dedicata al proprio profilo. <br> Da qui è possibile cliccare sul tasto posto in basso "persone che segui" e comparirà una lista formata da tutte le persone che l'utente segue fino a quel momento. <br> Per quanto riguarda invece la possibilità di controllare chi è che ci segue, bisogna cliccare sul tasto posto in basso "persone che ti seguono" in modo tale da aprire la lista di tutti gli utenti che ci seguono fino a quel momento. <br>
+# Andrea
 ### Vedere la cronologia di transazioni e scambi
 #### Descrizione
 #### Interazione con altre funzionalità
