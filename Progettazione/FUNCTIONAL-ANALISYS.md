@@ -3,7 +3,6 @@
 - [Progetto SeedShare](#progetto-seedshare)
     - [Analisi Funzionalità core](#analisi-funzionalit-core)
     - [Analisi Funzionalità](#analisi-funzionalit)
-# Salvatore
 ## Analisi Funzionalità core
 ### Funzionalità di registrazione
 #### Descrizione
@@ -15,7 +14,6 @@ l'utente non loggato da ogni pagine del sito avrà la possibilità di accedere a
 un volta reindirizzato su questa pagina l'utente cliccherà sul pulsante registrati e compilerà i form che li si presentano.
 una volta completato l'inserimento l'utente cliccherà sul pulsante registrami e riceverà una mail di conferma.
 una volta cliccato sul link nella mail l'utente verrà reindirizzato sulla sua pagina profilo.
-# Gianluigi
 ### Funzionalità di log-in
 #### Descrizione
 Questa funzionalità deve poter consentire all'utente di effettuare l'accesso nel sistema con le proprie credenziali
