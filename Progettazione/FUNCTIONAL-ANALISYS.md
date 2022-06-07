@@ -6,7 +6,7 @@
 ## Analisi Funzionalità core
 ### Funzionalità di registrazione
 #### Descrizione
-Questa funzionalità garantisce all'utente la possibilità di registrare un proprio account in modo da poter interagire con il social.
+Questa funzionalità garantisce all'utente la possibilità di registrare un proprio account.
 #### Interazione con altre funzionalità
 Questa funzionalità ha interazioni con la funzionalità di login
 #### Workflof della funzionalità
