@@ -101,19 +101,42 @@ Sulla barra bisogna scrivere il nome della specie che ci interessa. A quel punto
 # Nicolò
 ### Visualizzare la varietà
 #### Descrizione
+Questa funzionalità permette a qualsiasi utente di vedere i dati di una varietà di semi presenti sul sito.
 #### Interazione con altre funzionalità
+Sia gli utenti registrati che quelli non registrati possono usufruire di questa funzionalità. 
+La visualizzazione di una varietà è legata all'utilizzo della funzione di ricerca globale, da cui si cerca la varietà interessata.
+Compare nella pagina ricerca come elemento selezionabile. Compare nelle pagine delle singole specie come suggerimenti di varietà
 #### Workflof della funzionalità
+la pagina della varietà e acesibile da la pagina: ricerca globale, pag spece, profilo personale.
+  permete di visualizare una breve descrizione della spece a qui apartiene e delle informazioni riguardo a quella stessa varieta.
 ### Richiedere una varietà
 #### Descrizione
-Richiedere un seme ad un utente
+Questa funzionalità permette agli utenti di chiedere a altri utenti se anno disponibile una varietà e fare la richiesta di ordine.
 #### Interazione con altre funzionalità
+Contattare un utente
 #### Workflof della funzionalità
+dalla pagina varieta viene selezionato il seme e poi contatta lutente tramite mesagio testuale
 ### Funzionalità di aggiunta di una varietà
 #### Descrizione
+Questa funzionalità permette agli utenti registrati di aggiungere una varietà al proprio seme inserito.
 #### Interazione con altre funzionalità
+non a interazioni
 #### Workflof della funzionalità
+Dal proprio profilo e posibile visualizare la sezione di gestione della propia banca dei semi.
+in questa sezione e visibile un tasto “+” clicato il quale, la sezione della gestione della banca dati si modifichera 
+in un form che una volta riempito con tutte le informazioni necesarie permetera la agiunta di un seme.
 ### Visualizzare la specie
 #### Descrizione
+Questa funzionalità permette a qualsiasi utente di vedere i dati di una specie di semi presenti sul sito.
+#### Interazione con altre funzionalità
+Sia gli utenti registrati che quelli non registrati possono usufruire di questa funzionalità. 
+La visualizzazione di una specie è legata all'utilizzo della funzione di ricerca globale, da cui si cerca la specie interessata.
+#### Workflof della funzionalità
+Per visualizzare una specie di semi è necessario cliccare sulla barra di ricerca globale, accessibile da qualsiasi pagina del sito sia dall'utente loggato sia da quello sloggato. 
+Sulla barra bisogna scrivere il nome della specie che ci interessa. A quel punto cliccheremo sul tab dei semi, in modo da vedere solo i risultati della ricerca inerenti le specie e le varietà.
+Ora scorreremo tra i risultati finchè non troveremo la specie interessata, su cui cliccheremo.
+Questo ci porterà sulla pagina di quella specie, che si presenterà con una foto raffigurante quella specie in alto a sinistra con affianco la sua descrizione e tutte le informazioni necessarie. 
+Più in basso sarà invece possibile osservare dei riquadri con tutte le varietà presenti sul sito di quella specie.
 ## Analisi Funzionalità
 ### Funzionalità di ricerca post tramite filtri tag
 #### Descrizione
