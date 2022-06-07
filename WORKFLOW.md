@@ -10,41 +10,40 @@ In questa fase del progetto in cui il lavoro implica la stesura di testi e non l
 4. andrea
 5. gianluigi
 
-Nel branch master risiedera la code base principale del nostro progetto.
+Nel branch "master" risiedera la code base principale del nostro progetto.
 Ognuno dei membri del team invece svilupperà il progetto lavorando nel proprio branch.
 Quando un branch e pronto ad essere mergiato nella codebase principale l'utente che lo ha sviluppato solleverà una pull request.
 Alla pull request seguirà la revisione del codice da parte di almeno un'altro membro del team che darà l'approvazione.
-una volta mergiato il branch personale nel master si procederà a cancellare il proprio branch e ricrearlo partendo dal branch master.
+una volta mergiato il branch personale nel "master" si procederà a cancellare il proprio branch e ricrearlo partendo dal branch "master".
 
 ## Linee guida
 
 Quelle che seguono sono delle linee guida per l'utilizzo di questo workflow.
-1. posizioniamo sul branch master
-```
-git checkout master
-```
-2. prima di iniziare a lavorare ci si assicura che il master locale coincida con il master remoto
-```
-git fetch --all //preleva da dal remote origin i nuovi commit
-git reset --hard origin/master //cancella i commit dopo origin/master e posizione il master locale sul master remoto
+1. posizioniamo sul branch della feature che stiamo implementando (per esempio: "nuova-feature")
+```bash
+git fetch -p origin
+git checkout nuova-feature
 ```
 3. creiamo il nostro nuovo branch
-```
-git checkout -b nome_del_mambro_del_team
+```bash
+git checkout -b nome_del_membro_del_team
 ```
 4. lavoriamo sul nostro codice come di consueto ma pushando sul server remoto i vari commit del nostro branch in modo da renderli disponibili agli altri membri del team
-```
+```bash
 git status
 git add
 git commit -m "commento del commit"
-git push origin nome_del_mambro_del_team
+git push origin nome_del_membro_del_team
 ```
-5. quando crediamo che il nostro lavoro si pronto per essere mergiato nel master andiamo su github e creiamo una pull request.  
-   //TODO descirvere la pull request
-
-6. riposizionimoci sul master e cancelliamo il vecchio branch
+5. quando crediamo che il nostro lavoro si pronto per essere mergiato, oppure vogliamo sottoporre il nostro codice alla review di un altro membro del tema andiamo su github e creiamo una pull request.\
+6. grazie alla review del nostro compagno arriviamo al merge sul branch "nuova-feature" e alla cancellazione del branch "nome_del_membro_del_team"
+7. aggiorniamo il repo locale riposizionamoci sul ramo di feature sul quale stiamo lavorando e aprimo un nostro nuovo branche per il prossimo sprint di lavoro
+```bash
+git fetch -p origin
+git checkout nuova-feature
+git checkout -b nome_del_membro_del_team
 ```
-git checkout master
-git branch -d nome_del_mambro_del_team
-```
-7. ricominciamo dal punto 1
+8. reiteriamo tutti questi passaggi fino a che non siamo pronti a far confluire il branch "nuova-feature" nel "master".
+9. apriamo una pull request di merge di "nuova-feature" e come base "master".
+10. eseguiamo la revisione ed il merge.
+11. ricominciamo dal punto 1 su una nuova issue
