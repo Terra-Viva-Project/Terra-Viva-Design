@@ -3,18 +3,18 @@
 - [Progetto SeedShare](#progetto-seedshare)
     - [Analisi Funzionalità core](#analisi-funzionalit-core)
     - [Analisi Funzionalità](#analisi-funzionalit)
-# Salvatore
+
 ## Analisi Funzionalità core
 ### Funzionalità di registrazione
 #### Descrizione
 Questa funzionalità garantisce all'utente la possibilità di registrare un proprio account in modo da poter interagire con il social.
 #### Interazione con altre funzionalità
 Questa funzionalità ha interazioni con la funzionalità di login
-#### Workflof della funzionalità
-l'utente non loggato da ogni pagine del sito avrà la possibilità di accedere alla pagina di sign-in sign-up.
-un volta reindirizzato su questa pagina l'utente cliccherà sul pulsante registrati e compilerà i form che li si presentano.
-una volta completato l'inserimento l'utente cliccherà sul pulsante registrami e riceverà una mail di conferma.
-una volta cliccato sul link nella mail l'utente verrà reindirizzato sulla sua pagina profilo.
+#### Workflow della funzionalità
+L'utente non loggato da ogni pagine del sito avrà la possibilità di accedere alla pagina di sign-in sign-up.
+Una volta reindirizzato su questa pagina l'utente cliccherà sul pulsante registrati e compilerà i form che li si presentano.
+Una volta completato l'inserimento l'utente cliccherà sul pulsante registrami e riceverà una mail di conferma.
+Una volta cliccato sul link nella mail l'utente verrà reindirizzato sulla sua pagina profilo.
 # Gianluigi
 ### Funzionalità di log-in
 #### Descrizione
