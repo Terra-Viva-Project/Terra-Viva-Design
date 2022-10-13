@@ -34,14 +34,17 @@ Le parti costituenti dell'analisi funzionale sono:
 Sempre in fase di progettazione abbiamo creato un set di wireframe che rappresenti un bozza rudimentale dell'interfaccia con cui l'utente finale si trovera a interaggire.
 Questo ci ha permesso di comprendere meglio quali fossero le necessità dell'utente finale.
 # Slide 8 Stack tecnologico
-Durante il corso in develhope abbiamo sviluppato il software backend per questo progetto.
-Nella fase implementativa abbiamo utilizzato diverse tecnologie. In particolare le basi dell'ambiente di sviluppo sono state il linguaggio Java e il framework Spring.
-Abbiamo deciso di utilizzare un database relazionale nello specifico MariaDB in quanto i valori con i quali viene sviluppato sono molto simili a i valori che supportano terra viva: partecipazione e cooperazione.
+Durante il corso in develhope abbiamo sviluppato il software backend per questo progetto.\
+Nella fase implementativa abbiamo utilizzato diverse tecnologie.\
+In particolare le basi dell'ambiente di sviluppo sono state il linguaggio Java e il framework Spring.\
+Abbiamo deciso di utilizzare un database relazionale nello specifico MariaDB in quanto i valori\
+con i quali viene sviluppato sono molto simili a i valori che supportano terra viva: partecipazione e cooperazione.
 # Slide 9 Diagramma E/R
-Prima di approcciarci alla scrittura del codice particolare attenzione è stata data alla modellazione del diagramma entità relazioni.
-Qui possiamo vedere la struttura finale del diagramma E/R dalla quale siamo partiti per scrivere le entità e successivamente tutti gli strati che portano a rendere fruibili i nostri endpoint.
-Abbiamo cercato di fare in modo che questo modello fosse il più aderente possibile alla realta rappresentata in modo che le modifiche successive al modello siano le minori possibili.
-# ???????
+Prima di approcciarci alla scrittura del codice particolare attenzione è stata data alla modellazione del diagramma entità relazioni.\
+Qui possiamo vedere la struttura finale del diagramma E/R dalla quale siamo partiti\
+per scrivere le entità e successivamente tutti gli strati che portano a rendere fruibili i nostri endpoint.\
+Abbiamo cercato di fare in modo che questo modello fosse il più aderente possibile alla realta\
+rappresentata in modo che le modifiche successive al modello siano le minori possibili.
 # Slide 10
 Oltre alla funzionalità core di spring (IOC contatiner, dependency injection)
 abbiamo utilizzato altri moduli:
